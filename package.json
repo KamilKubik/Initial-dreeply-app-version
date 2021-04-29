@@ -7,9 +7,12 @@
     "start": "next dev"
   },
   "dependencies": {
+    "firebase": "^8.4.2",
+    "firebase-admin": "^9.7.0",
     "netlify-plugin-cache-nextjs": "^1.6.1",
-    "next": "^10.0.8",
+    "next": "^10.2.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "uuid": "^8.3.2"
   }
 }
